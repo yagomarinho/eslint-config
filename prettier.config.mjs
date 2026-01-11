@@ -5,7 +5,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-module.exports = {
+export default {
   singleQuote: true,
   semi: false,
   arrowParens: 'avoid',
